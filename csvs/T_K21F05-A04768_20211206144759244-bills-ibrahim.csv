@@ -1,0 +1,14 @@
+Nominal,SerialNumber,SuitableForATM,Fit,Unfit,ErrorCode
+1,F24375801,True,False,False,0x0000
+1,B35885929,True,False,False,0x0000
+
+Nominal,SerialNumber,SuitableForATM,Fit,Unfit,ErrorCode
+5,A40265435,True,False,False,0x0000
+5,A00575628,True,False,False,0x0000
+5,A05922769,True,False,False,0x0000
+5,A37112036,True,False,False,0x0000
+
+Nominal,SerialNumber,SuitableForATM,Fit,Unfit,ErrorCode
+20,B20660321,True,False,False,0x0000
+20,B56907760,True,False,False,0x0000
+
